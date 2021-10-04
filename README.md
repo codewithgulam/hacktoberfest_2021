@@ -38,3 +38,4 @@ This repository is open to all members of the GitHub community. Any member may c
     5. Make pull request
 ***
 
+## Hope you understand all things let's go and earn swags.
