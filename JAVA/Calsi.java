@@ -27,3 +27,9 @@ public class Calculator {
       System.out.printf(num1 + " " + op + " " + num2 + " = " + ans);
    }
 }
+
+//Output
+//  Enter two numbers: 10.0 7.0
+//  Enter an operator (+, -, *, /): -
+//  The result is given as follows:
+//  10.0 - 7.0 = 3.0
